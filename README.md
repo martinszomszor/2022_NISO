@@ -1,6 +1,6 @@
 # 2022_NISO
 
-These are the notebooks used for my presentation at the NISO Training Serieos on [https://www.niso.org/events/working-scholarly-apis-niso-training-series](Working with Scholarly APIs). 
+These are the notebooks used for my presentation at the NISO Training Serieos on [Working with Scholarly APIs](https://www.niso.org/events/working-scholarly-apis-niso-training-series). 
 
 # Methods and Tools for Scholarly Data Analytics - Thursday, June 9, 2022
 When working with scholarly data, the analyst must consider many different technology aspects. In terms of data integration, knowledge of the available datasets and how to link across them is crucial. For effective data enrichment, experience with widely used libraries and APIs can add additional value to the data. Finally, visualization of the outcomes is essential for proper interpretation and communication of findings.
